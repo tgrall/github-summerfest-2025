@@ -13,3 +13,4 @@
 - @nextjs Rule - Component Structure: Keep components small, reusable, and organized within the `src/components` directory.
 - @nextjs Rule - Styling: Use Tailwind CSS classes for styling, following the configuration in `tailwind.config.ts`.
 - @general Rule - Testing: When adding new features, also add corresponding unit or integration tests.
+
